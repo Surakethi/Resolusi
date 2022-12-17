@@ -2,3 +2,6 @@
 * konsisten bikin video
 * belajar html
 * belajar css
+* belajar javascript
+* belajar expressjs
+* belajar svelte
